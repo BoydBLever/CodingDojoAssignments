@@ -1,0 +1,25 @@
+#box {
+height: 500px;
+width: 50%;
+border: 3px solid black;
+margin: 0 auto;
+}
+#left {
+    height: 500px;
+    width: 50%;
+    background-color: blue;
+    display: inline-block;
+    }
+#center {
+    height: 500px;
+    width: 50%;
+    background-color: white;
+    display: inline-block;
+    }
+#right {
+    height: 500px;
+    width: 50%;
+    background-color: red;
+    display: inline-block;
+        }
+

@@ -1,0 +1,36 @@
+
+img.octocat {
+    height: 140px;
+    margin: 10px;
+    /* justify-content: right; */
+}
+#block1{
+    height: 200px;
+    width: 50%;
+    border: 5px solid white;
+    padding: 5px;
+    margin: 5px;
+    background-color: mediumspringgreen;
+    justify-content: center;
+    display: flex;
+}
+#block2{
+    height: 200px;
+    width: 50%;
+    border: 5px solid rgb(18, 16, 16);
+    padding: 5px;
+    margin: 5px;
+    background-color: wheat;
+    display:flex;
+    justify-content: center;   
+}
+#block3 {
+    height: 200px;
+    width: 50%;
+    border: 5px solid white;
+    padding: 5px;
+    margin: 5px;
+    background-color: blanchedalmond;
+    justify-content: center;
+    display: flex;
+}
