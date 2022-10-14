@@ -1,0 +1,47 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#container{
+    height: 400px;
+    width: 80%;
+    background-color: whitesmoke;
+    border: 2px solid gray;
+    display: flex;
+    /* align-items: left; vertical spacing, left is not doing anything*/
+    /* justify-content: left; */
+    /* padding:100px; */
+}
+
+#teal{
+    background-color: teal;
+    height:100px;
+    width: 100%;
+}
+
+#profilePic{
+    height:20px;
+    width: 10px;
+    position: fixed;
+
+}
+.profilePic{
+    height:100px;
+    width:65px;
+    /* How to move image lower? */
+    /* position relative */
+}
+
+#text {
+    display: inline-block;
+    position: fixed;
+}
+
+h1 {
+    position:left;
+}
+
+.mapMarker, h2, .gear{
+    height: 25px;
+    /* display: fixed; */
+}
